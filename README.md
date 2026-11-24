@@ -7,6 +7,8 @@
 A two-sentence horror story, written to be read twice: the first sentence sounds like a
 quaint library anecdote, and the second makes it impossible.
 
+Entry for the make.fun bounty: https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253
+
 > The library book was due back in 1974, and the card inside still has my name on it, in my own handwriting. I was born in 1998.
 
 126 characters, exactly two sentences. The horror is implied, never explained — who
